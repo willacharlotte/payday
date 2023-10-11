@@ -23,3 +23,5 @@
 - If any of y'all have a quicker way to open the project from vs code or whatevs, please let me know
 - Before you commit your changes, you might have to clear the cells' outputs, cause the file might be too big to push to Github >:(
 - Ughh, maybe this won't be easier... (open to suggestions)
+
+- If you Anaconda installed you can use VS Code with the Jupyter extension (I believe the main Python extension includes it) to edit notebooks.
